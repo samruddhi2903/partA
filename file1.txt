@@ -1,0 +1,4 @@
+Name-Samruddhi Redij.
+Class-TE
+Sub-WAD
+Description-This is assignment 2A.
